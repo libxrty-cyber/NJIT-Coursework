@@ -1,5 +1,7 @@
 """
+Practice problems given in 9/15 class.
 
+Skills Learned: Concatenating, obtaining user inputs and attaching to variables.
 """
 
 """
